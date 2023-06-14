@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    background-color: #d5d6d8;
+}
+
+button.item {
+    color: #171412;
+    background-color: #ffffff;
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Times New Roman';
+}
+
+.user-input {
+    width: 200px;
+}
+
+.content {
+    position: fixed;
+    top: 40%;
+    left: 20%;
+    background-color: white;
+
+    border: 1px solid #171412;
+    border-radius: 5px;
+}
+
+form .item {
+    padding: 15px;
+    margin: 2px;
+    border: 1px solid #171412;
+    border-radius: 5px;
+}
+
+
+.btn {
+   display: flex;
+    justify-content: center;
+}
